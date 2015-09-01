@@ -1,0 +1,8 @@
+#!include_default
+Misc.bs
+Misc.c
+Misc.o
+Misc.pm
+Misc.xs
+.travis.yml
+MANIFEST.SKIP
